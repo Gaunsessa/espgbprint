@@ -5,6 +5,11 @@ Emulates a Gameboy Printer and sends printed images to hosted webserver.
 
 ![cat](https://github.com/Gaunsessa/espgbprint/blob/main/examples/Gameboy%20Camera%20Dump%20Test%204.png)
 
+![color1](https://github.com/Gaunsessa/espgbprint/blob/main/examples/color.png)
+![color2](https://github.com/Gaunsessa/espgbprint/blob/main/examples/color%202.png)
+![color3](https://github.com/Gaunsessa/espgbprint/blob/main/examples/color%203.png)
+![color4](https://github.com/Gaunsessa/espgbprint/blob/main/examples/color%204.png)
+
 # Example
 
 ![itself](https://github.com/Gaunsessa/espgbprint/blob/main/examples/itself.png)
